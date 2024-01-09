@@ -1,0 +1,3 @@
+[submodule "incentive-contracts"]
+	path = incentive-contracts
+	url = git@github.com:zerolend/incentive-contracts.git
